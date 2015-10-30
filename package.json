@@ -11,7 +11,8 @@
     "url": "https://github.com/lob/eslint-config-lob"
   },
   "keywords": [
-    "eslint"
+    "eslint",
+    "eslintconfig"
   ],
   "author": "",
   "license": "MIT",
