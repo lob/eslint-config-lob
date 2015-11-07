@@ -1,0 +1,60 @@
+'use strict';
+
+module.exports = {
+  env: {
+    "mocha": true,
+    "node": true
+  },
+  rules: {
+    "array-bracket-spacing": [2, "never"],
+    "block-spacing": [2, "always"],
+    "brace-style": 2,
+    "comma-dangle": [2, "never"],
+    "comma-style": [2, "last"],
+    "consistent-this": [2, "self"],
+    "curly": 2,
+    "default-case": 0,
+    "dot-notation": 2,
+    "eol-last": 2,
+    "eqeqeq": 2,
+    "indent": [2, 2, { "SwitchCase": 1 }],
+    "key-spacing": [2, { "beforeColon": false, "afterColon": true, "mode": "minimum" }],
+    "linebreak-style": [2, "unix"],
+    "no-caller": 2,
+    "no-console": 1,
+    "no-debugger": 2,
+    "no-empty": 2,
+    "no-extend-native": 2,
+    "no-implicit-coercion": 2,
+    "no-irregular-whitespace": 2,
+    "no-mixed-spaces-and-tabs": [2, "smart-tabs"],
+    "no-multi-str": 2,
+    "no-multiple-empty-lines": [2, { max: 2 }],
+    "no-new": 2,
+    "no-spaced-func": 2,
+    "no-trailing-spaces": 2,
+    "no-undef": 2,
+    "no-unused-vars": 2,
+    "no-use-before-define": 2,
+    "object-curly-spacing": [2, "always"],
+    "one-var": [2, "never"],
+    "operator-linebreak": [2, "after"],
+    "quote-props": [2, "as-needed"],
+    "quotes": [2, "single"],
+    "space-after-keywords": 2,
+    "space-before-blocks": 2,
+    "space-before-function-paren": 2,
+    "space-in-parens": [2, "never"],
+    "space-infix-ops": 2,
+    "space-return-throw-case": 2,
+    "space-unary-ops": 2,
+    "strict": [2, "global"],
+    "valid-jsdoc": [2, {
+      "requireParamDescription": false,
+      "requireReturn": false,
+      "requireReturnDescription": false
+    }],
+    "wrap-iife": [2, "any"],
+    "yoda": 2
+  }
+};
