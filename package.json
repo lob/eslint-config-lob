@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "patch-release": "node scripts/changelog.js && git commit -am 'updated CHANGELOG.md' && npm version patch && git push origin && git push origin --tags",
-    "minor-release": "node scripts/changelog.js --minor && git commit -am 'updated CHANGELOG.md' && npm version minor && git push origin && git push origin --tags"
+    "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version patch && git push origin && git push origin --tags",
+    "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version minor && git push origin && git push origin --tags",
+    "release:major": "changelog -M && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version major && git push origin && git push origin --tags"
   },
   "repository": {
     "type": "git",
@@ -23,8 +24,6 @@
   },
   "homepage": "https://github.com/lob/eslint-config-lob",
   "devDependencies": {
-    "bluebird": "^3.0.5",
-    "conventional-changelog": "0.0.16",
-    "fs": "0.0.2"
+    "generate-changelog": "^1.0.0"
   }
 }
