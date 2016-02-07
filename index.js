@@ -83,7 +83,7 @@ module.exports = {
     'no-var': 2,
     'no-with': 2,
     'object-curly-spacing': [2, 'always'],
-    'object-shorthand': 2,
+    'object-shorthand': [2, 'properties'],
     'one-var': [2, 'never'],
     'operator-linebreak': [2, 'after'],
     'prefer-arrow-callback': 2,
