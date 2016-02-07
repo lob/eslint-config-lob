@@ -1,3 +1,9 @@
+#### 1.1.1 (2016-2-7)
+
+##### Bug Fixes
+
+* **typo:** fix typo in config ([2bc3121e](https://github.com/lob/eslint-config-lob/commit/2bc3121e))
+
 ### 1.1.0 (2016-2-5)
 
 ##### Chores
