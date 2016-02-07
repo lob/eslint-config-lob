@@ -15,7 +15,7 @@ module.exports = {
     'comma-dangle': [2, 'never'],
     'comma-style': [2, 'last'],
     'consistent-this': [2, 'self'],
-    'constructor-super', 2,
+    'constructor-super': 2,
     'curly': 2,
     'default-case': 0,
     'dot-location': [2, 'property'],
