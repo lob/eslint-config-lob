@@ -1,3 +1,10 @@
+#### 1.1.2 (2016-2-7)
+
+##### Bug Fixes
+
+* **object-shorthand:** only enable it for properties ([7610c8e0](https://github.com/lob/eslint-config-lob/commit/7610c8e0))
+* **env:** enable es6 env ([46c098a1](https://github.com/lob/eslint-config-lob/commit/46c098a1))
+
 #### 1.1.1 (2016-2-7)
 
 ##### Bug Fixes
