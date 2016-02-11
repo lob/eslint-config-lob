@@ -1,17 +1,11 @@
-#### 1.1.2 (2016-2-7)
+## 2.0.0 (2016-2-11)
 
 ##### Bug Fixes
 
 * **object-shorthand:** only enable it for properties ([7610c8e0](https://github.com/lob/eslint-config-lob/commit/7610c8e0))
 * **env:** enable es6 env ([46c098a1](https://github.com/lob/eslint-config-lob/commit/46c098a1))
-
-#### 1.1.1 (2016-2-7)
-
-##### Bug Fixes
-
 * **typo:** fix typo in config ([2bc3121e](https://github.com/lob/eslint-config-lob/commit/2bc3121e))
-
-### 1.1.0 (2016-2-5)
+* **changelog:** use generate-changelog ([505dd9a9](https://github.com/lob/eslint-config-lob/commit/505dd9a9))
 
 ##### Chores
 
@@ -25,10 +19,6 @@
   * add best practices rules ([9b2fa820](https://github.com/lob/eslint-config-lob/commit/9b2fa820))
   * enable all recommended rules ([e05f1cd8](https://github.com/lob/eslint-config-lob/commit/e05f1cd8))
 * **readme:** document usage and contribution ([528eb310](https://github.com/lob/eslint-config-lob/commit/528eb310))
-
-##### Bug Fixes
-
-* **changelog:** use generate-changelog ([505dd9a9](https://github.com/lob/eslint-config-lob/commit/505dd9a9))
 
 #### 1.0.1 (2015-11-07)
 
