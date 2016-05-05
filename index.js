@@ -8,7 +8,6 @@ module.exports = {
   },
   rules: {
     'array-bracket-spacing': [2, 'never'],
-    'arrow-body-style': [2, 'as-needed'],
     'arrow-parens': 2,
     'arrow-spacing': 2,
     'block-spacing': [2, 'always'],
