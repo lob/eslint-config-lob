@@ -1,3 +1,9 @@
+#### 2.0.1 (2016-5-5)
+
+##### Bug Fixes
+
+* **arrow-body-style:** remove the buggy rule ([5a19e0c6](https://github.com/lob/eslint-config-lob/commit/5a19e0c6))
+
 ## 2.0.0 (2016-2-11)
 
 ##### Bug Fixes
