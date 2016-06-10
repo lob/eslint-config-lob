@@ -53,7 +53,7 @@ module.exports = {
     'no-lonely-if': 2,
     'no-mixed-spaces-and-tabs': [2, 'smart-tabs'],
     'no-multi-str': 2,
-    'no-multiple-empty-lines': [2, { max: 2 }],
+    'no-multiple-empty-lines': [2, { max: 1 }],
     'no-negated-in-lhs': 2,
     'no-new': 2,
     'no-obj-calls': 2,
