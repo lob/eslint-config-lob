@@ -1,3 +1,13 @@
+### 2.1.0 (2016-6-10)
+
+##### New Features
+
+* **es5:** add rule set for es5 for older repos ([af53f573](https://github.com/lob/eslint-config-lob/commit/af53f573))
+
+##### Bug Fixes
+
+* **max-lines:** reduce it from 2 to 1 ([b27957e0](https://github.com/lob/eslint-config-lob/commit/b27957e0))
+
 #### 2.0.1 (2016-5-5)
 
 ##### Bug Fixes
