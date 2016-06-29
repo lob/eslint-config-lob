@@ -1,3 +1,9 @@
+### 2.2.0 (2016-6-29)
+
+##### Bug Fixes
+
+* **rules:** enable semi and comma-spacing ([6e6bbeb3](https://github.com/lob/eslint-config-lob/commit/6e6bbeb3))
+
 ### 2.1.0 (2016-6-10)
 
 ##### New Features
