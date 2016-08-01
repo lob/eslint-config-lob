@@ -21,7 +21,7 @@ module.exports = {
     'eol-last': 2,
     'eqeqeq': 2,
     'indent': [2, 2, { 'SwitchCase': 1 }],
-    'key-spacing': [2, { 'beforeColon': false, 'afterColon': true, 'mode': 'minimum' }],
+    'key-spacing': [2, { 'beforeColon': false, 'afterColon': true, 'mode': 'strict' }],
     'linebreak-style': [2, 'unix'],
     'new-parens': 2,
     'no-caller': 2,
