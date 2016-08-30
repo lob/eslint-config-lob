@@ -22,7 +22,14 @@
     "url": "https://github.com/lob/eslint-config-lob/issues"
   },
   "homepage": "https://github.com/lob/eslint-config-lob",
+  "dependencies": {
+    "eslint-plugin-lob": "^1.0.1"
+  },
   "devDependencies": {
+    "eslint": "^1.10.3",
     "generate-changelog": "^1.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "1.x"
   }
 }

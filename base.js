@@ -1,7 +1,11 @@
 'use strict';
 
 module.exports = {
+  plugins: ['lob'],
   rules: {
+    'lob/align-equals': 2,
+    'lob/newline-after-mocha': 2,
+    'lob/padded-describes': 2,
     'array-bracket-spacing': [2, 'never'],
     'block-spacing': [2, 'always'],
     'brace-style': 2,
