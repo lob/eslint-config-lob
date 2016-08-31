@@ -6,7 +6,7 @@ module.exports = {
     'mocha': true,
     'node': true
   },
-  extends: './base.js',
+  extends: 'lob/base',
   rules: {
     'arrow-parens': 2,
     'arrow-spacing': 2,

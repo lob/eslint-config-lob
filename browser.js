@@ -6,5 +6,5 @@ module.exports = {
     'mocha': true,
     'protractor': true
   },
-  extends: './base.js'
+  extends: 'lob/base'
 };
