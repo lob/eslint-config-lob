@@ -5,5 +5,5 @@ module.exports = {
     'mocha': true,
     'node': true
   },
-  extends: './base.js'
+  extends: 'lob/base'
 };
