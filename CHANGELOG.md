@@ -1,3 +1,22 @@
+### 2.3.0 (2016-8-31)
+
+##### Chores
+
+* **npm:** remove shrinkwrap file ([7771eec1](https://github.com/lob/eslint-config-lob/commit/7771eec10660486b5c5b6ba5889f29de21a22ec7))
+
+##### New Features
+
+* **plugin:** add eslint-plugin-lob ([c67d3985](https://github.com/lob/eslint-config-lob/commit/c67d3985641943c1c05f74cca5b9fbbd8d50bc61))
+
+##### Bug Fixes
+
+* **config:** use correct extends syntax ([8e96a902](https://github.com/lob/eslint-config-lob/commit/8e96a9027b851ce2dbd6148f61a0df9142977029))
+* **key-spacing:** use strict mode ([e696fcec](https://github.com/lob/eslint-config-lob/commit/e696fcec1424e1d2311276112a51bb7efaecbefc))
+
+##### Refactors
+
+* **config:** move common rules to base config file ([b7c59cea](https://github.com/lob/eslint-config-lob/commit/b7c59ceafc7a0ef3a7fb39aeceee3dacd62ecc7a))
+
 ### 2.2.0 (2016-6-29)
 
 ##### Bug Fixes
