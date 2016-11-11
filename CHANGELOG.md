@@ -1,3 +1,9 @@
+### 2.4.0 (2016-11-11)
+
+##### New Features
+
+* **browser:** upgrade to ES6 rules ([df48b84d](https://github.com/lob/eslint-config-lob/commit/df48b84dc66b360024828ebe82e1d91f792c53c8))
+
 ### 2.3.0 (2016-8-31)
 
 ##### Chores
