@@ -2,9 +2,10 @@
 
 module.exports = {
   env: {
-    'browser': true,
-    'mocha': true,
-    'protractor': true
+    'browser': true
   },
-  extends: 'lob/base'
+  extends: 'lob/index',
+  rules: {
+    'consistent-this': 0
+  }
 };
