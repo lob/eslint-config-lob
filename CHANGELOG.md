@@ -1,3 +1,9 @@
+## 3.0.0 (2017-11-13)
+
+##### Chores
+
+* **eslint:** upgrade eslint to 4.x.x and update rule names (#22) ([5137b9cb](https://github.com/lob/eslint-config-lob/commit/5137b9cb25f88d549ad2aa4d7e720e3d365865c6))
+
 ### 2.4.0 (2016-11-11)
 
 ##### New Features
