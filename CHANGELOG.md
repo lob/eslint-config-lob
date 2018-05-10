@@ -1,3 +1,7 @@
+## 3.1.0 (2018-05-09)
+
+* **config**: enable no-new-func in error mode ([76daf6c](https://github.com/lob/eslint-config-lob/commit/76daf6ce917161bd6d8f8754bd7d13774437cffe))
+
 ## 3.0.0 (2017-11-13)
 
 ##### Chores
