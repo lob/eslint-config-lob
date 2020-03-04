@@ -3,7 +3,6 @@
 module.exports = {
   plugins: ['lob'],
   rules: {
-    'lob/align-equals': 2,
     'lob/newline-after-mocha': 2,
     'lob/padded-describes': 2,
     'array-bracket-spacing': [2, 'never'],
@@ -53,6 +52,7 @@ module.exports = {
     'no-lonely-if': 2,
     'no-loop-func': 2,
     'no-mixed-spaces-and-tabs': [2, 'smart-tabs'],
+    // 'no-multi-spaces': 2,
     'no-multi-str': 2,
     'no-multiple-empty-lines': [2, { max: 1 }],
     'no-negated-in-lhs': 2,
