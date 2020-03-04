@@ -1,3 +1,9 @@
+### 4.1.0 (2020-03-04)
+
+##### Chores
+
+* **align-equals:**  removing equal alignment to modernize rules ([7ab1c67e](https://github.com/lob/eslint-config-lob/commit/7ab1c67ee78328898bacbfe1c638a3123f769570))
+
 ## 4.0.0 (2018-05-11)
 
 ##### New Features
