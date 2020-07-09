@@ -1,3 +1,9 @@
+### 4.2.0 (2020-07-09)
+
+##### Chores
+
+* **indent:**  change indentation of "dot" chains ([4048ece](https://github.com/lob/eslint-config-lob/commit/4048ece7ce4ce483e9eccdc643fedc8e06f2327c))
+
 ### 4.1.0 (2020-03-04)
 
 ##### Chores
