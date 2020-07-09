@@ -18,7 +18,7 @@ module.exports = {
     'dot-notation': 2,
     'eol-last': 2,
     'eqeqeq': 2,
-    'indent': [2, 2, { 'SwitchCase': 1, 'MemberExpression': 0 }],
+    'indent': [2, 2, { 'SwitchCase': 1 }],
     'key-spacing': [2, { 'beforeColon': false, 'afterColon': true, 'mode': 'strict' }],
     'keyword-spacing': 2,
     'linebreak-style': [2, 'unix'],
