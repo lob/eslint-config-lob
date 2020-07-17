@@ -58,6 +58,7 @@ module.exports = {
     'no-negated-in-lhs': 2,
     'no-new': 2,
     'no-new-func': 2,
+    'no-new-wrappers': 2,
     'no-obj-calls': 2,
     'no-redeclare': [2, { 'builtinGlobals': true }],
     'no-regex-spaces': 2,
