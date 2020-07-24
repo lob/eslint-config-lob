@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lob",
-  "version": "4.2.0",
+  "version": "5.0.0",
   "description": "Shareable ESLint config for Lob repositories",
   "main": "index.js",
   "scripts": {
