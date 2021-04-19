@@ -4,7 +4,7 @@ module.exports = {
   env: {
     'node': true
   },
-  extends: 'lob/index',
+  extends: './index.js',
   rules: {
     'no-shadow': [2, {
       'builtinGlobals': true,

@@ -26,10 +26,10 @@
     "eslint-plugin-lob": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^4.10.0",
+    "eslint": "^4.1",
     "generate-changelog": "^1.0.0"
   },
   "peerDependencies": {
-    "eslint": "4.x"
+    "eslint": "^4.1"
   }
 }

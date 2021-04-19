@@ -4,7 +4,7 @@ module.exports = {
   env: {
     'browser': true
   },
-  extends: 'lob/index',
+  extends: './index.js',
   rules: {
     'consistent-this': 0
   }
