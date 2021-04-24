@@ -1,3 +1,11 @@
+### 5.1.0 (2021-04-24)
+
+* **eslint:** Allow newer versions of eslint, and update syntax to work with major versions 4-7. (#33) ([bb3ec96](https://github.com/lob/eslint-config-lob/commit/bb3ec9655d5c187e87e334c65660a50618dedf4d))
+
+##### Chores
+
+* **deps:**  bump lodash from 4.17.15 to 4.17.19 ([e50e3bb6](https://github.com/lob/eslint-config-lob/commit/e50e3bb6954c767c765bb6402d92d98eaaf9ebbf))
+
 ### 5.0.0 (2020-07-24)
 
 * **mixed &&s and ||s** change rules to disallow mixing operators.  Since this rule cannot be auto-fixed, this is a breaking change.
