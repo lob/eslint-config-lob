@@ -30,6 +30,6 @@
     "generate-changelog": "^1.0.0"
   },
   "peerDependencies": {
-    "eslint": "^4.1"
+    "eslint": ">=4.1 < 8"
   }
 }
