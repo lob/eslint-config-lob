@@ -1,9 +1,5 @@
 ### 5.0.0 (2020-07-24)
 
-* **relaxed peer eslint version** Change peer package requirement to allow newer versions of eslint. Updated syntax and verified compatibility with major versions 4-7.
-
-### 5.0.0 (2020-07-24)
-
 * **mixed &&s and ||s** change rules to disallow mixing operators.  Since this rule cannot be auto-fixed, this is a breaking change.
 
 ### 4.2.0 (2020-07-09)
