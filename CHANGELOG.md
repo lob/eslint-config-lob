@@ -1,10 +1,20 @@
-### 5.1.0 (2021-04-24)
+### 5.2.0 (2021-04-24)
 
-* **eslint:** Allow newer versions of eslint, and update syntax to work with major versions 4-7. (#33) ([bb3ec96](https://github.com/lob/eslint-config-lob/commit/bb3ec9655d5c187e87e334c65660a50618dedf4d))
+##### Bug Fixes
+
+* **eslint-peer-dependency:**  Version 5.1 intended to create lenient rules for 'eslint' as a peer (major versions 4-7). This change actually does that. ([0732c16d](https://github.com/lob/eslint-config-lob/commit/0732c16ddad6133cb5ce737fd5c33294d88e9d05))
+
+### 5.1.0 (2021-04-24) [DEPRECATED]
+
+* ~~**eslint:** Allow newer versions of eslint, and update syntax to work with major versions 4-7. (#33) ([bb3ec96](https://github.com/lob/eslint-config-lob/commit/bb3ec9655d5c187e87e334c65660a50618dedf4d))~~
 
 ##### Chores
 
 * **deps:**  bump lodash from 4.17.15 to 4.17.19 ([e50e3bb6](https://github.com/lob/eslint-config-lob/commit/e50e3bb6954c767c765bb6402d92d98eaaf9ebbf))
+
+##### Deprecation notes
+
+* This version attempted to allow eslint versions 4-7 as peer dependency. Due to a syntax mistake, it does not actually do so. Please use version 5.2.0 instead.
 
 ### 5.0.0 (2020-07-24)
 
