@@ -1,3 +1,13 @@
+### 5.2.0 (2021-04-25)
+
+##### Bug Fixes
+
+* **eslint-peer-dependency:**  Version 5.1 intended to create lenient rules for 'eslint' as a peer. This change actually does that. ([0732c16d](https://github.com/lob/eslint-config-lob/commit/0732c16ddad6133cb5ce737fd5c33294d88e9d05))
+
+##### Other Changes
+
+*  deprecated 5.1.0 ([500616a2](https://github.com/lob/eslint-config-lob/commit/500616a27238eec6a9a6f9afde7dc9da5a968ee4))
+
 ### 5.1.0 (2021-04-24) [DEPRECATED]
 
 * ~~**eslint:** Allow newer versions of eslint, and update syntax to work with major versions 4-7. (#33) ([bb3ec96](https://github.com/lob/eslint-config-lob/commit/bb3ec9655d5c187e87e334c65660a50618dedf4d))~~
